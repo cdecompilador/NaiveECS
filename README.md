@@ -1,0 +1,1 @@
+**The most naive and simple possible implementation of an ECS in c++ you could make for learning/teaching purposes**
