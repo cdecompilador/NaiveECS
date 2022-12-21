@@ -1,0 +1,10 @@
+Language: Cpp
+BasedOnStyle: LLVM
+IndentWidth: 4
+
+BreakBeforeBraces: Stroustrup
+ColumnLimit: 80
+IndentCaseLabels: true
+NamespaceIndentation: None
+
+BreakConstructorInitializersBeforeComma: true
